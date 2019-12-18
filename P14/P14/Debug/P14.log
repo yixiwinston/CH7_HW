@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Winston Yixi\Desktop\高階語言程式實習課\HW\20191219\108360216_莊曜丞\P14\source\main.c(9,15): warning C4129:  'T': 無法辨識的字元逸出序列
+C:\Users\Winston Yixi\Desktop\高階語言程式實習課\HW\20191219\108360216_莊曜丞\P14\source\main.c(9,15): warning C4129:  'D': 無法辨識的字元逸出序列
+C:\Users\Winston Yixi\Desktop\高階語言程式實習課\HW\20191219\108360216_莊曜丞\P14\source\main.c(9,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  請參閱 'fopen' 的宣告
